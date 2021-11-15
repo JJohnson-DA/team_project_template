@@ -10,6 +10,9 @@ Folder to hold manual csv files if needed. There is a subfolder for raw and clea
 ## Deliverables
 Folder to hold presentations or writeups. The contents of the folder will not be pushed to GitHub due to the .gitignore file. 
 
+## Roadmap
+The README in this folder can serve as the project outline or roadmap. This can be a place to list phases of the project, details of that phase, desired goal for the phase, and key takeaways.
+
 ## Scrap Folder
 The contents of this folder are ignored by the .gitignore (except .keep) and is intended to store messy or exploratory files that do not need to be pushed to the repository.
 
