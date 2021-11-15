@@ -8,11 +8,9 @@ data/raw/*
 scrap_folder/*
 !scrap_folder/.keep
 
-# Ignore visuals/ except .keep files in subfolders
+# Ignore visuals/exploratory except .keep files in subfolders
 visuals/exploratory/*
-visuals/final/*
 !visuals/exploratory/.keep
-!visuals/final/.keep
 
 # Ignore deliverables except .keep file
 deliverables/*
