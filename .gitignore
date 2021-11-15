@@ -1,0 +1,19 @@
+# ignore files in data/clean/ and data/raw/ except the .keep files in order to maintain structure
+data/clean/*
+data/raw/*
+!data/clean/.keep
+!data/raw/.keep
+
+# Ignore scrap_folder/ except .keep
+scrap_folder/*
+!scrap_folder/.keep
+
+# Ignore visuals/ except .keep files in subfolders
+visuals/exploratory/*
+visuals/final/*
+!visuals/exploratory/.keep
+!visuals/final/.keep
+
+# Ignore deliverables except .keep file
+deliverables/*
+!deliverables/.keep
