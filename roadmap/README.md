@@ -9,6 +9,6 @@ Self-Explanatory...
 #### Required Steps/Processes
 List more detailed steps that need to happen in this phase.
 #### Goal outcome
-Think "at the end of this phase, we will have ______."
+Think "at the end of this phase, we will have/know ______."
 #### Findings/Takeaways
 What stood out?
