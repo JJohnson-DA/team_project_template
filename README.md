@@ -1,8 +1,8 @@
-# Template Structure
+# Folder Structure
 Some folders will have the contents ignored via the .gitignore file. The folder structure, however, is maintained through the use of .keep files and exceptions in the .gitignore.
 
 ## Code
-Folder to hold scripts used for data cleaning, exploration, and analysis. Subfolders can be created for further organization if needed.
+Folder to hold scripts used for data cleaning, exploration, and modeling/analysis. Subfolders can be created for further organization if needed.
 
 ## Data
 Folder to hold manual csv files if needed. There is a subfolder for raw and clean files. Files in this folder will not be pushed to GitHub due to the .gitignore file.
